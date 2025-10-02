@@ -1,0 +1,18 @@
+# Core
+python-dotenv
+fastapi
+uvicorn[standard]
+pydantic
+
+# CrewAI + Tools
+crewai
+crewai-tools
+tavily-python
+
+# Web requests & scraping
+requests
+beautifulsoup4
+httpx
+
+# Dev / Debugging (optional but helpful)
+rich

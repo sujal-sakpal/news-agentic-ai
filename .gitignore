@@ -1,0 +1,19 @@
+# Environment variables
+# This is the most important line for your secret keys!
+backend/.env
+
+# Python virtual environment
+# This prevents uploading gigabytes of library files
+backend/venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# IDE and Editor folders (e.g., VS Code, PyCharm)
+.vscode/
+.idea/
+
+# OS-specific files (e.g., macOS, Windows)
+.DS_Store
+Thumbs.db
