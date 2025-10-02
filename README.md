@@ -18,8 +18,6 @@ This project demonstrates the power of multi-agent collaboration using **CrewAI*
 
 The application follows a simple yet powerful workflow, where the frontend communicates with a backend that orchestrates the AI agent crew.
 
-![Workflow Diagram](https://i.imgur.com/GzB2X6t.png)
-
 1.  **User Query:** The user inputs a topic on the web frontend.
 2.  **API Request:** A request is sent to the FastAPI backend.
 3.  **CrewAI Kickoff:** The backend initializes the AI crew with the given topic.
@@ -59,7 +57,7 @@ Before you begin, ensure you have the following installed and configured:
 
 1.  **Clone the repository and navigate to the `backend` directory:**
     ```bash
-    git clone <your-repo-url>
+    git clone [repo url](https://github.com/sujal-sakpal/news-agentic-ai.git)
     cd news-agent-app/backend
     ```
 
