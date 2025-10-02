@@ -48,9 +48,9 @@ Before you begin, ensure you have the following installed and configured:
 
 -   **Python** (version 3.10.11 or newer).
 -   **Ollama**: Download and install from [ollama.com](https://ollama.com/).
--   **A local LLM**: Pull the Llama 3 model by running this command in your terminal:
+-   **A local LLM**: Pull the Llama 3.2 3b model by running this command in your terminal:
     ```bash
-    ollama run llama3
+    ollama run llama3.2:3b
     ```
     **Leave Ollama running in the background.**
 -   **Tavily API Key**: Get a free API key from [Tavily AI](https://app.tavily.com/).
