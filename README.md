@@ -57,7 +57,7 @@ Before you begin, ensure you have the following installed and configured:
 
 1.  **Clone the repository and navigate to the `backend` directory:**
     ```bash
-    git clone [repo url](https://github.com/sujal-sakpal/news-agentic-ai.git)
+    git clone https://github.com/sujal-sakpal/news-agentic-ai.git
     cd news-agent-app/backend
     ```
 
