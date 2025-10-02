@@ -46,7 +46,7 @@ Follow these steps to get the project running on your local machine.
 
 Before you begin, ensure you have the following installed and configured:
 
--   **Python** (version 3.8 or newer).
+-   **Python** (version 3.10.11 or newer).
 -   **Ollama**: Download and install from [ollama.com](https://ollama.com/).
 -   **A local LLM**: Pull the Llama 3 model by running this command in your terminal:
     ```bash
