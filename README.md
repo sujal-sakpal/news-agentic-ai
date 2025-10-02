@@ -75,8 +75,9 @@ Before you begin, ensure you have the following installed and configured:
     ```
 
 3.  **Install the required Python dependencies:**
+    Run this command in the terminal of backend directory in vscode terminal
     ```bash
-    pip install "crewai[tools]" fastapi uvicorn python-dotenv langchain_community
+    pip install -r requirements.txt
     ```
 
 4.  **Set your Tavily API Key:**
